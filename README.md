@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+Hi Human!
+
+Sukhi here, I'm just playing around. 
